@@ -1,0 +1,85 @@
+/* 
+  Localizable.strings
+  FoodPin
+
+  Created by WeiFangChou on 2021/5/1.
+  
+*/
+/* Call : */
+"Call :" = "Call :";
+
+/* Camera */
+"Camera" = "Camera";
+
+/* Cancel */
+"Cancel" = "Cancel";
+
+/* Check in */
+"Check in" = "Check in";
+
+/* Choose your photo source */
+"Choose your photo source" = "Choose your photo source";
+
+/* Error ,Failed get data.... */
+"Error ,Failed get data...." = "Error ,Failed get data....";
+
+/* Facebook */
+"Facebook" = "Facebook";
+
+/* Feedback */
+"Feedback" = "Feedback";
+
+/* Follow Us */
+"Follow Us" = "Follow Us";
+
+/* GET STARTED */
+"GET STARTED" = "GET STARTED";
+
+/* HOW TO GET THERE ? */
+"HOW TO GET THERE ?" = "HOW TO GET THERE ?";
+
+/* I'm here */
+"I'm here" = "I'm here";
+
+/* Instagram */
+"Instagram" = "Instagram";
+
+/* Just checking in at  */
+"Just checking in at " = "Just checking in at ";
+
+/* NEXT */
+"NEXT" = "NEXT";
+
+/* OK */
+"OK" = "OK";
+
+/* Oops */
+"Oops" = "Oops";
+
+/* Photo Library */
+"Photo Library" = "Photo Library";
+
+/* Rate us on App Store */
+"Rate us on App Store" = "Rate us on App Store";
+
+/* Service Unavailable */
+"Service Unavailable" = "Service Unavailable";
+
+/* Sorry, the call feature is not available yet. Please retry later. */
+"Sorry, the call feature is not available yet. Please retry later." = "Sorry, the call feature is not available yet. Please retry later.";
+
+/* Tell us your feedback */
+"Tell us your feedback" = "Tell us your feedback";
+
+/* Twitter */
+"Twitter" = "Twitter";
+
+/* Undo Check in */
+"Undo Check in" = "Undo Check in";
+
+/* We can't proceed because one of the fields is blank. Please note that all fields are required. */
+"We can't proceed because one of the fields is blank. Please note that all fields are required." = "We can't proceed because one of the fields is blank. Please note that all fields are required.";
+
+/* What do you want to do? */
+"What do you want to do?" = "What do you want to do?";
+

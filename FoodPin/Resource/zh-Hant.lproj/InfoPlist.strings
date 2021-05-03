@@ -1,0 +1,15 @@
+/* 
+  InfoPlist.strings
+  FoodPin
+
+  Created by WeiFangChou on 2021/5/1.
+  
+*/
+/* Bundle name */
+"CFBundleName" = "餐廳集";
+/* Privacy - Camera Usage Description */
+"NSCameraUsageDescription" = "允許此App取用您的相機.";
+/* Privacy - Photo Library Additions Usage Description */
+"NSPhotoLibraryAddUsageDescription" = "允許此App取用您的相簿圖庫.";
+/* Privacy - Photo Library Usage Description */
+"NSPhotoLibraryUsageDescription" = "允許此App取用您的相簿圖庫.";

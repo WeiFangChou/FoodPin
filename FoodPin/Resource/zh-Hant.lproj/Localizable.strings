@@ -1,0 +1,85 @@
+/* 
+  Localizable.strings
+  FoodPin
+
+  Created by WeiFangChou on 2021/5/1.
+  
+*/
+/* Call : */
+"Call :" = "撥給 :";
+
+/* Camera */
+"Camera" = "相機";
+
+/* Cancel */
+"Cancel" = "取消";
+
+/* Check in */
+"Check in" = "簽到";
+
+/* Choose your photo source */
+"Choose your photo source" = "選擇照片來源";
+
+/* Error ,Failed get data.... */
+"Error ,Failed get data...." = "發生錯誤，無法取得資料";
+
+/* Facebook */
+"Facebook" = "Facebook";
+
+/* Feedback */
+"Feedback" = "Feedback";
+
+/* Follow Us */
+"Follow Us" = "追蹤我們";
+
+/* GET STARTED */
+"GET STARTED" = "開始吧";
+
+/* HOW TO GET THERE ? */
+"HOW TO GET THERE ?" = "怎麼到那裡 ?";
+
+/* I'm here */
+"I'm here" = "我在這！";
+
+/* Instagram */
+"Instagram" = "Instagram";
+
+/* Just checking in at  */
+"Just checking in at " = "分享我們在";
+
+/* NEXT */
+"NEXT" = "下一步";
+
+/* OK */
+"OK" = "好";
+
+/* Oops */
+"Oops" = "哎呀";
+
+/* Photo Library */
+"Photo Library" = "照片圖庫";
+
+/* Rate us on App Store */
+"Rate us on App Store" = "評分此軟體";
+
+/* Service Unavailable */
+"Service Unavailable" = "服務發生錯誤";
+
+/* Sorry, the call feature is not available yet. Please retry later. */
+"Sorry, the call feature is not available yet. Please retry later." = "抱歉，資料發生錯誤，稍後再試";
+
+/* Tell us your feedback */
+"Tell us your feedback" = "提供意見";
+
+/* Twitter */
+"Twitter" = "Twitter";
+
+/* Undo Check in */
+"Undo Check in" = "取消";
+
+/* We can't proceed because one of the fields is blank. Please note that all fields are required. */
+"We can't proceed because one of the fields is blank. Please note that all fields are required." = "抱歉無法繼續，請務必填入所有空格";
+
+/* What do you want to do? */
+"What do you want to do?" = "你想要做什麼？";
+
