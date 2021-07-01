@@ -1,6 +1,9 @@
 # FoodPin
 
-用Swift寫的第一個App，範例來自 **iOS 11 APP程式設計實戰心法** 
+## 用Swift寫的第一個App，範例來自 **iOS 11 APP程式設計實戰心法** 
+
+![Alt text](https://github.com/WeiFangChou/WeiFangChou.github.io/blob/main/style/img/FoodPinApp.png?raw=true)
+
 
 使用 
 1. UITableView - Prototype Cell 以及 Dynamic Prototype
@@ -29,6 +32,3 @@
 23. CloudKit 框架、資料儲存
 24. NSCache 圖片快取
 25. Localization 本地化
-
-
-# h1
